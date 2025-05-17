@@ -1,68 +1,55 @@
-# Astro Starter Kit: Blog
+# Arcanum Art
 
-```sh
-npm create astro@latest -- --template blog
-```
+Welcome to **Arcanum Art** – a curated gallery of AI-generated artwork inspired by memory, emotion, and the unseen. Each piece is generated through a blend of language prompts, mood-driven themes, and creative algorithms.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
+🌌 **Built with Astro**  
+⚡ **Deployed on Cloudflare Pages**  
+🎨 **Images generated with ChatGPT + MidJourney**  
+📍 **Live at:** [arcanumart.pics](https://arcanumart.pics)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+---
 
-![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
+## 📁 Project Purpose
 
-Features:
+This site serves as a personal art showcase—where AI-generated images are organized by aesthetic themes like:
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+- **Mood-based prompts**
+- **Seasonal landscapes**
+- **Color tones**
+- **Dreamlike moments**
 
-## 🚀 Project Structure
+Each image includes:
+- A generated title
+- A short description
+- SEO-friendly tags (coming soon)
+- Cross-post automation to social platforms (in progress)
 
-Inside of your Astro project, you'll see the following folders and files:
+---
 
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
-```
+## 🛠️ Tech Stack
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+- [Astro](https://astro.build/) – Static site generator
+- [Cloudflare Pages](https://pages.cloudflare.com/) – Free hosting
+- [GitHub](https://github.com/arcanumart/arcanumart-site) – Version control
+- [ChatGPT](https://openai.com/chatgpt) & [MidJourney](https://www.midjourney.com/) – Image + prompt generation
+- (Coming soon) [Cloudinary](https://cloudinary.com/) – Optimized image hosting
+- (Coming soon) [Zapier / n8n](https://n8n.io) – Automation + social sharing
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+---
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+## 🚧 In Progress
 
-Any static assets, like images, can be placed in the `public/` directory.
+- 🔄 Automated prompt-to-post flow
+- 📸 Cloudinary integration for image CDN
+- 📲 Cross-posting to Instagram/TikTok
 
-## 🧞 Commands
+---
 
-All commands are run from the root of the project, from a terminal:
+## 📬 Contact
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+For questions, ideas, or collaborations:  
+📧 arcanumart@yourdomain.com *(replace if real)*
 
-## 👀 Want to learn more?
+---
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+_“We do not create to be seen—we create to reveal what already lingers beneath.”_
