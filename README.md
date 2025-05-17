@@ -48,7 +48,7 @@ Each image includes:
 ## 📬 Contact
 
 For questions, ideas, or collaborations:  
-📧 arcanumart@yourdomain.com *(replace if real)*
+📧 arc@arcanumart.pics
 
 ---
 
