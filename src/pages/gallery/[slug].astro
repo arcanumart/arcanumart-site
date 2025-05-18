@@ -1,6 +1,13 @@
 ---
 import art from '../../data/art.json';
 
+// Tell Astro how to build pages for each artwork's slug
+export async function getStaticPaths() {
+  return art.map((item) => ({
+    params: { slug: item.slug }
+  }));
+}
+
 const { slug } = Astro.params;
 const piece = art.find(item => item.slug === slug);
 
