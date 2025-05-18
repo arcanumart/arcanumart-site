@@ -1,0 +1,35 @@
+---
+import ArtCard from '../../components/ArtCard.astro';
+import art from '../../data/art.json';
+---
+
+<html>
+  <head>
+    <title>Gallery | Arcanum Art</title>
+  </head>
+  <body>
+    <h1>Arcanum Gallery</h1>
+    <section class="grid">
+      {art.map(item => <ArtCard {...item} />)}
+    </section>
+  </body>
+
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background: #f8f1e7;
+      color: #222;
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      font-size: 2.5rem;
+      margin-bottom: 2rem;
+    }
+    .grid {
+      display: grid;
+      gap: 2rem;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    }
+  </style>
+</html>

@@ -1,0 +1,64 @@
+---
+import art from '../../data/art.json';
+
+const { slug } = Astro.params;
+const piece = art.find(item => item.slug === slug);
+
+if (!piece) {
+  throw new Error(`Artwork not found for slug: ${slug}`);
+}
+---
+
+<html>
+  <head>
+    <title>{piece.title} | Arcanum Art</title>
+  </head>
+  <body>
+    <article>
+      <img src={piece.imageUrl} alt={piece.title} />
+      <h1>{piece.title}</h1>
+      <p>{piece.description}</p>
+      <ul>
+        {piece.vibeTags.map(tag => <li>{tag}</li>)}
+      </ul>
+      <a href="/gallery">← Back to Gallery</a>
+    </article>
+  </body>
+
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background: #fdf6ee;
+      color: #222;
+      padding: 2rem;
+    }
+    article {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      border-radius: 1rem;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h1 {
+      margin-top: 1.5rem;
+      font-size: 2rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      gap: 0.5rem;
+      margin: 1rem 0;
+      color: #777;
+    }
+    a {
+      display: inline-block;
+      margin-top: 2rem;
+      text-decoration: none;
+      color: #b35b1f;
+    }
+  </style>
+</html>
