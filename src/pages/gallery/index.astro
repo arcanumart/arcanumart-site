@@ -1,6 +1,7 @@
 ---
 import ArtCard from '../../components/ArtCard.astro';
 import art from '../../data/art.json';
+import Navbar from '../../components/Navbar.astro';
 ---
 
 <html>
@@ -8,6 +9,7 @@ import art from '../../data/art.json';
     <title>Gallery | Arcanum Art</title>
   </head>
   <body>
+    <Navbar />
     <h1>Arcanum Gallery</h1>
     <section class="grid">
       {art.map(item => <ArtCard {...item} />)}
