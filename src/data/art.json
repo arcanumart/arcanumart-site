@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Lantern Rain",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747527593/A_lone_figure_walking_under_paper_lanterns_gdyhwn.png",
+    "vibeTags": ["winter", "crimson", "street", "melancholic"],
+    "description": "Red lanterns flicker through the mist as rain kisses cobblestones, and a lone figure drifts beneath an umbrella like a memory in motion. The night hums with quiet stories and blurred reflections.",
+    "slug": "lantern-rain"
+  },
+  {
+    "title": "Twilight Balcony",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747527592/A_city_balcony_at_twilight_glowing_neon_signs_blnxai.png",
+    "vibeTags": ["summer", "neon", "urban", "dreamy"],
+    "description": "Soft neon glows spill from the doorway, casting warm light onto a garden balcony suspended above the city's violet hush. In the fading dusk, the skyline blurs into a painted reverie.",
+    "slug": "twilight-balcony"
+  },
+  {
+    "title": "Golden Hour Reverie",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747527592/A_cozy_bedroom_lit_by_the_golden_hues_of_a_setting_g6ire5.png",
+    "vibeTags": ["autumn", "amber", "bedroom", "serene"],
+    "description": "Sunlight pours through the window like honey, warming a quiet room where a record spins and a cat sleeps in perfect peace. It is a still life of comfort, wrapped in a song and the hush of dusk.",
+    "slug": "golden-hour-reverie"
+  },
+  {
+    "title": "Whispers on Paper",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747527592/A_cluttered_desk_bathed_in_warm_lamplight_scattered_kzmtmj.png",
+    "vibeTags": ["autumn", "sepia", "study", "nostalgic"],
+    "description": "A cluttered desk glows under the warm halo of a lamp, steam curling from a teapot as thoughts gather like dust on parchment. Time seems paused in the amber hush of quiet creation.",
+    "slug": "whispers-on-paper"
+  }
+]
