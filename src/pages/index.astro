@@ -18,13 +18,15 @@ import Navbar from '../components/Navbar.astro';
   </div>
   <script>
   const link = document.getElementById('enter-gallery');
-  link.addEventListener('click', (e) => {
-    e.preventDefault();
-    document.body.classList.add('fade-out');
-    setTimeout(() => {
-      window.location.href = '/gallery';
-    }, 500); // match the animation duration
-  });
+  if (link) {
+    link.addEventListener('click', (e) => {
+      e.preventDefault();
+      document.body.classList.add('fade-out');
+      setTimeout(() => {
+        window.location.href = '/gallery';
+      }, 500);
+    });
+  }
 </script>
 </body>
 
