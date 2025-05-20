@@ -26,5 +26,558 @@
     "vibeTags": ["autumn", "sepia", "study", "nostalgic"],
     "description": "A cluttered desk glows under the warm halo of a lamp, steam curling from a teapot as thoughts gather like dust on parchment. Time seems paused in the amber hush of quiet creation.",
     "slug": "whispers-on-paper"
+  },
+  {
+    "title": "sentinel of the flame peaks",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624239/artimuspi_A_majestic_dragon_perched_upon_its_mountain_fortres_41fbe2c0-9498-4da0-9e87-6f03b29f9ecf_2_dvjlfo.png",
+    "vibeTags": [
+      "autumn",
+      "amber",
+      "fantasy",
+      "majestic"
+    ],
+    "description": "A fiery dragon perches atop a jagged cliff, surveying the golden forest below as a distant castle rises like a dream from the haze.",
+    "slug": "sentinel-of-the-flame-peaks"
+  },
+  {
+    "title": "the crimson magus",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624238/artimuspi_A_mysterious_wizard_in_their_arcane_tower._--ar_916_60fc54a5-4f3d-42a4-b353-10d9f16f2b2d_3_ouvmqf.png",
+    "vibeTags": [
+      "autumn",
+      "crimson",
+      "arcane",
+      "contemplative"
+    ],
+    "description": "In a library thick with secrets, an old wizard in scarlet robes reads by arcane light, a swirl of power coiling around his finger.",
+    "slug": "the-crimson-magus"
+  },
+  {
+    "title": "forest warden of the flame staff",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624238/artimuspi_Ancient_bear_guardian_of_the_mystical_woods._--ar_1_cf50381a-1f18-481d-a1b1-d5e4d3250847_0_dqgksd.png",
+    "vibeTags": [
+      "spring",
+      "green",
+      "forest",
+      "mystical"
+    ],
+    "description": "A mighty bear, cloaked in moss and flowers, strides through a misty woodland with a blazing staff\u2014keeper of an ancient grove's magic.",
+    "slug": "forest-warden-of-the-flame-staff"
+  },
+  {
+    "title": "crimson muse",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624239/artimuspi_Create_a_highly_realistic_image_of_the_ideal_Americ_bdc0741a-ef99-4ca5-ad9d-dc64ba3e33c8_2_pr1gzd.png",
+    "vibeTags": [
+      "summer",
+      "red",
+      "pop-art",
+      "seductive"
+    ],
+    "description": "Her gaze is daring and her lips like ripe cherries\u2014she stares from a canvas of raw emotion and untamed beauty.",
+    "slug": "crimson-muse"
+  },
+  {
+    "title": "neon dusk",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624239/artimuspi_Futuristic_Blade_Runner-inspired_Neo-Tokyo_cityscap_4a61b1bc-cfe3-4314-8fe6-6da8d94d78bf_1_ose5fg.png",
+    "vibeTags": [
+      "night",
+      "purple",
+      "cyberpunk",
+      "electric"
+    ],
+    "description": "Beneath a violet sky, the city pulses with synthetic life, its alleys aglow with signs and shadows that whisper future secrets.",
+    "slug": "neon-dusk"
+  },
+  {
+    "title": "quiet neon morning",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624238/artimuspi_Neo-Tokyo_--quality_0.5_--profile_h8imzpz_--v_6.1_157fcf8c-6868-48c7-8e8e-b954a006481f_3_wienw5.png",
+    "vibeTags": [
+      "summer",
+      "pastel",
+      "urban",
+      "nostalgic"
+    ],
+    "description": "A red sedan rests peacefully in a pastel-toned street, basking in soft morning light under a turquoise sky streaked with cables.",
+    "slug": "quiet-neon-morning"
+  },
+  {
+    "title": "under the sakura sky",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624239/artimuspi_Neo-Tokyo_--quality_0.5_--profile_h8imzpz_--v_6.1_157fcf8c-6868-48c7-8e8e-b954a006481f_2_m0kqye.png",
+    "vibeTags": [
+      "spring",
+      "pink",
+      "street",
+      "dreamy"
+    ],
+    "description": "Backpacks sway as dreamers walk beneath a sea of cotton candy clouds, the street alive with signs, stories, and the scent of possibility.",
+    "slug": "under-the-sakura-sky"
+  },
+  {
+    "title": "future citadel",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624240/artimuspi_Neo-Tokyo_--quality_0.5_--profile_h8imzpz_--v_6.1_157fcf8c-6868-48c7-8e8e-b954a006481f_1_iiqcv4.png",
+    "vibeTags": [
+      "future",
+      "aqua",
+      "cityscape",
+      "awe"
+    ],
+    "description": "Skyscrapers shimmer in jade and flame as a lone figure gazes over the metropolis, where steel and light form a new horizon.",
+    "slug": "future-citadel"
+  },
+  {
+    "title": "cherry express",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624240/artimuspi_Neo-Tokyo_--quality_0.5_--profile_h8imzpz_--v_6.1_157fcf8c-6868-48c7-8e8e-b954a006481f_0_fl0t1h.png",
+    "vibeTags": [
+      "spring",
+      "pink",
+      "transit",
+      "serene"
+    ],
+    "description": "A candy-pink train glides into the station as cherry blossoms frame the sky, carrying daydreams down electric rails.",
+    "slug": "cherry-express"
+  },
+  {
+    "title": "blade of the green order",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624900/artimuspi_A_female_druid_warrior_wearing_very_scant_nature_th_d45194ba-0a10-46b7-bebc-c0296fac8818_1_sdjxjg.png",
+    "vibeTags": [
+      "spring",
+      "emerald",
+      "fantasy",
+      "resolute"
+    ],
+    "description": "Bathed in the glow of sacred glass, an elven warrior honors their blade with reverence, sworn to silence and the forest\u2019s call.",
+    "slug": "blade-of-the-green-order"
+  },
+  {
+    "title": "sunbound knight",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624900/artimuspi_In_the_style_of_early_80s_DnD_art_a_demon_warrior_w_6fcffbad-320d-4074-98f3-f4980ae279ba_0_xrnzss.png",
+    "vibeTags": [
+      "summer",
+      "orange",
+      "heroic",
+      "epic"
+    ],
+    "description": "A lone figure cloaked in fire-red rises against the sun, sword raised in defiance, as if to cleave the very heavens in two.",
+    "slug": "sunbound-knight"
+  },
+  {
+    "title": "pure joy",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624904/artimuspi_Candid_highly_detailed_black_and_white_portraits_of_40de0af8-2fcc-410a-8f6d-d1116a6294e9_0_zvghuz.png",
+    "vibeTags": [
+      "night",
+      "monochrome",
+      "celebration",
+      "warmth"
+    ],
+    "description": "Caught in the pulse of a moment, his radiant laugh lights the dark like a firework born of genuine happiness.",
+    "slug": "pure-joy"
+  },
+  {
+    "title": "pumpkin pride",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624901/artimuspi_Autumn_and_Halloween_themed_in_the_style_of_1950s_S_adec447f-3fcc-4682-a5e7-487ac7436ec4_1_i3flan.png",
+    "vibeTags": [
+      "autumn",
+      "orange",
+      "neighborhood",
+      "whimsical"
+    ],
+    "description": "With a twinkle in her eyes and leaves ablaze above, a girl stands triumphant in her festive realm of candy-colored charm.",
+    "slug": "pumpkin-pride"
+  },
+  {
+    "title": "halloween return",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624902/artimuspi_Autumn_and_Halloween_themed_in_the_style_of_1950s_S_adec447f-3fcc-4682-a5e7-487ac7436ec4_0_jajsl5.png",
+    "vibeTags": [
+      "autumn",
+      "blue",
+      "mystery",
+      "nostalgic"
+    ],
+    "description": "A classic car hums quietly in a leaf-littered driveway as twilight falls, and a lone figure approaches the house of old ghosts.",
+    "slug": "halloween-return"
+  },
+  {
+    "title": "electric rebellion",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624901/artimuspi_A_vibrant_portrait_of_a_mid-90s_NYC_club_kid_dresse_d3ce755b-4873-48f9-8157-9e4b992f6fab_3_zifref.png",
+    "vibeTags": [
+      "spring",
+      "neon",
+      "street",
+      "chaotic"
+    ],
+    "description": "She struts like an explosion of color, every thread and spike defying conformity beneath graffiti skies.",
+    "slug": "electric-rebellion"
+  },
+  {
+    "title": "friesian messiah",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624904/artimuspi_An_exaggerated_cartoonish_figure_of_a_Boardwalk_Jesus_59d1a04d-778c-4804-a44d-b0e231550407_cpbfgs.png",
+    "vibeTags": [
+      "summer",
+      "surreal",
+      "beach",
+      "absurd"
+    ],
+    "description": "Crowned with sea-junk and seagulls, a burger-wielding prophet communes with crows in a carnival of contradictions.",
+    "slug": "friesian-messiah"
+  },
+  {
+    "title": "los huesos elegantes",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624907/artimuspi_Classic_oil_painting_on_black_depicting_Day_of_the_De_1287e1cb-477f-4c24-b381-ea93e0f1cf24_jtcxvp.png",
+    "vibeTags": [
+      "autumn",
+      "teal",
+      "celebration",
+      "festive"
+    ],
+    "description": "With hats tipped and flowers offered, three skeletal souls dance in vibrant tribute to the sweetness of the afterlife.",
+    "slug": "los-huesos-elegantes"
+  },
+  {
+    "title": "the apothecary's raven",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624903/artimuspi_mysterious_scholars_chamber_collection_of_skulls_on_2d770178-1bcc-484e-aa25-780e37bc479a_1_ofosyq.png",
+    "vibeTags": [
+      "winter",
+      "black",
+      "gothic",
+      "mysterious"
+    ],
+    "description": "Among glass vials and forgotten herbs, the raven watches with solemn eyes, as shadows drift like smoke through time.",
+    "slug": "the-apothecary-s-raven"
+  },
+  {
+    "title": "cosmic bloom",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747624904/artimuspi_An_image_to_represent_Arcanum_Art_--ar_169_--v_6.1_5917cb49-227f-407a-a8f7-43371abad460_2_pqpbvk.png",
+    "vibeTags": [
+      "cosmic",
+      "multicolor",
+      "dreamscape",
+      "sublime"
+    ],
+    "description": "Her thoughts unfurl into galaxies, nebulae blooming from her mind like a garden of stars whispering in silence.",
+    "slug": "cosmic-bloom"
+  },
+  {
+    "title": "regal horn",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626217/artimuspi_Elegant_Art_Nouveau_style_poster_featuring_a_gracef_7789f083-9b87-4297-b473-781ca49daa52_1_y4nbpq.png",
+    "vibeTags": [
+      "spring",
+      "gold",
+      "fantasy",
+      "majestic"
+    ],
+    "description": "Framed in florals and filigree, a noble unicorn gazes with timeless grace, a symbol of myth wrapped in elegance.",
+    "slug": "regal-horn"
+  },
+  {
+    "title": "painted dream",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626218/artimuspi_Abstract_expressionist_painting_of_a_unicorn_using__8e040de4-179b-4e7c-a422-d291d9c26f38_3_uojutz.png",
+    "vibeTags": [
+      "summer",
+      "multicolor",
+      "abstract",
+      "vivid"
+    ],
+    "description": "Brushstrokes clash and dance to shape a unicorn from chaos\u2014its spirit born of color, energy, and wonder.",
+    "slug": "painted-dream"
+  },
+  {
+    "title": "the unicorn within",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626218/artimuspi_High-fashion_studio_photograph_of_a_model_dressed_a_db1d7103-4c51-40a5-be77-87c34e3d87bc_3_c5hdvq.png",
+    "vibeTags": [
+      "spring",
+      "pink",
+      "fashion",
+      "fantastical"
+    ],
+    "description": "Adorned with petals, glitter, and pride, she stands as a living vision of magic, unapologetically mythical.",
+    "slug": "the-unicorn-within"
+  },
+  {
+    "title": "feathers of the dark glade",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626221/artimuspi_High-fashion_studio_photograph_of_a_male_model_dres_ddfff6d3-1aed-4468-9571-cc34f295805c_3_uemyxy.png",
+    "vibeTags": [
+      "autumn",
+      "black",
+      "forest",
+      "enigmatic"
+    ],
+    "description": "With feathers sharp as whispers and eyes like midnight spells, he haunts the woods like a cursed fae king.",
+    "slug": "feathers-of-the-dark-glade"
+  },
+  {
+    "title": "fractured gaze",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626219/artimuspi_Abstract_expressionist_painting_of_a_dark_elf_using_065b9857-b3dd-4953-8f5f-e5a287c5082b_0_h7hlmt.png",
+    "vibeTags": [
+      "winter",
+      "dark",
+      "abstract",
+      "introspective"
+    ],
+    "description": "A soul splintered in strokes of shadow and light, this figure emerges and dissolves within its painted storm.",
+    "slug": "fractured-gaze"
+  },
+  {
+    "title": "cheers to the moment",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626220/artimuspi_A_photo_of_a_handsome_35-year-old_black_man_with_te_b95f5065-19d6-43ec-bf69-d365a0d912f4_1_jmdeqn.png",
+    "vibeTags": [
+      "summer",
+      "warm",
+      "casual",
+      "content"
+    ],
+    "description": "With a gentle smile and glass raised, he welcomes the day with gratitude, dressed in vintage calm.",
+    "slug": "cheers-to-the-moment"
+  },
+  {
+    "title": "whispers of petals",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626221/artimuspi_A_close-up_of_an_abstract_painting_with_white_flowers_a3eefcb4-a7e5-4fac-85e6-4202ee832d2f_ev7isv.png",
+    "vibeTags": [
+      "spring",
+      "pastel",
+      "floral",
+      "delicate"
+    ],
+    "description": "Soft blooms melt into brush and canvas, their ivory whispers carried by a breeze made of color and light.",
+    "slug": "whispers-of-petals"
+  },
+  {
+    "title": "ember dusk",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626222/artimuspi_Low-quality_photograph_featuring_a_sci-fi_western_t_bae71cdd-dcb8-4576-9615-a54ce64deca6_2_kaizs3.png",
+    "vibeTags": [
+      "autumn",
+      "amber",
+      "western",
+      "ominous"
+    ],
+    "description": "A lone figure faces the fire-streaked sky, standing resolute as ash and flame blur the world around him.",
+    "slug": "ember-dusk"
+  },
+  {
+    "title": "road to vermilion cliffs",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626221/artimuspi_Low-quality_photograph_featuring_a_sci-fi_western_t_bae71cdd-dcb8-4576-9615-a54ce64deca6_3_xj2uhg.png",
+    "vibeTags": [
+      "autumn",
+      "earth",
+      "desert",
+      "serene"
+    ],
+    "description": "A dusty path stretches toward sculpted mesas, framed by fences and silence under a sky of heavy promise.",
+    "slug": "road-to-vermilion-cliffs"
+  },
+  {
+    "title": "the void druid",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626222/artimuspi_A_female_druid_warrior_wearing_very_scant_nature_th_7444d583-13e4-4fa6-854b-3804a8726e84_1_jtfnr6.png",
+    "vibeTags": [
+      "winter",
+      "monochrome",
+      "darkwood",
+      "foreboding"
+    ],
+    "description": "Wreathed in bark and shadow, a faceless sorceress emerges from ink and ash, her staff blooming with bone-deep magic.",
+    "slug": "the-void-druid"
+  },
+  {
+    "title": "charged silence",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747627287/artimuspi_NFT_digital_art_style_of_the_lyrics_I_said_ooh_girl_e9b397f6-eec3-4459-a1ff-715932c6bd33_1_pfbgf6.png",
+    "vibeTags": [
+      "summer",
+      "yellow",
+      "portrait",
+      "electric"
+    ],
+    "description": "She sits in thunder\u2019s echo, her gaze fierce beneath storm-tossed hair as lightning cracks the calm behind her.",
+    "slug": "charged-silence"
+  },
+  {
+    "title": "static bloom",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747627289/artimuspi_NFT_digital_art_style_of_the_lyrics_I_said_ooh_girl_e9b397f6-eec3-4459-a1ff-715932c6bd33_2_xzih0y.png",
+    "vibeTags": [
+      "spring",
+      "blue",
+      "urban",
+      "surreal"
+    ],
+    "description": "Electric threads twist through her curls like roots of a storm, her calm composure wrapped in wild wonder.",
+    "slug": "static-bloom"
+  },
+  {
+    "title": "prism embrace",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747627293/artimuspi_Minimalist_photo_portrait_of_an_interracial_gay_coupl_51add9d9-f849-46ce-a33b-fbf1ca509dc4_upy6j4.png",
+    "vibeTags": [
+      "winter",
+      "monochrome",
+      "intimate",
+      "tender"
+    ],
+    "description": "In grayscale shadows, a quiet moment glows with rainbow fragments\u2014proof that love bends even light.",
+    "slug": "prism-embrace"
+  },
+  {
+    "title": "peace inward",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747627296/artimuspi_Minimalist_photo_portrait_of_black_male_with_beard_an_73aef499-6e41-4c18-9ee0-a51352063106_zwmyyj.png",
+    "vibeTags": [
+      "winter",
+      "blackwhite",
+      "spiritual",
+      "calm"
+    ],
+    "description": "Eyes closed to the noise of the world, he breathes stillness beneath the halo of a diffused light.",
+    "slug": "peace-inward"
+  },
+  {
+    "title": "tiny storm",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626214/artimuspi_Liminal_style_art_of_a_kitten_--raw_--v_6_e051a93e-b9b9-4f0a-8891-2c0e235ba793_3_yk6u0d.png",
+    "vibeTags": [
+      "spring",
+      "gray",
+      "whimsical",
+      "innocent"
+    ],
+    "description": "With oversized eyes and fur like gentle static, this kitten waits\u2014soft curiosity caught in a flurry of lines.",
+    "slug": "tiny-storm"
+  },
+  {
+    "title": "bubble cloud kitten",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626215/artimuspi_cute_animal_extremely_funny_art_chaos_40_ar_34_styliz_fb7f6497-532f-4ae4-ba40-eed0caed382a_ou20ao.png",
+    "vibeTags": [
+      "summer",
+      "pastel",
+      "fantasy",
+      "joyful"
+    ],
+    "description": "A fluffy dream creature floats through candy clouds, its wonder reflected in every shimmering bubble.",
+    "slug": "bubble-cloud-kitten"
+  },
+  {
+    "title": "crimson devotion",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747627291/artimuspi_Your_god_is_dead_and_no_one_cares._If_there_is_a_hell_a7ecd6c4-e596-4067-bc40-0969d6addc99_wwtcgr.png",
+    "vibeTags": [
+      "autumn",
+      "red",
+      "mythic",
+      "intense"
+    ],
+    "description": "Beneath a blood-lit cross, the lone figure kneels as if struck by divine fire in a cathedral of flame.",
+    "slug": "crimson-devotion"
+  },
+  {
+    "title": "neon tide",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626217/artimuspi_a_series_of_vibrant_city_skylines_in_8-bit_retro_ar_265174af-9351-460c-9ba1-086501eafc4c_0_mvgmqo.png",
+    "vibeTags": [
+      "summer",
+      "neon",
+      "cityscape",
+      "dreamy"
+    ],
+    "description": "A glowing red moon kisses the horizon while city lights shimmer like stars adrift on water's breath.",
+    "slug": "neon-tide"
+  },
+  {
+    "title": "winter buck",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626215/artimuspi_Pastel_portrait_drawing_of_different_single_forest__c29adc15-fd28-4490-baf3-724b8f49fdd6_0_uvanty.png",
+    "vibeTags": [
+      "winter",
+      "green",
+      "woodland",
+      "mystical"
+    ],
+    "description": "In snow-draped stillness, the stag-man stands poised in plaid, a quiet guardian of the frostbitten forest.",
+    "slug": "winter-buck"
+  },
+  {
+    "title": "orchid spiral",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747627295/artimuspi_Elegant_Art_Nouveau_style_poster_featuring_a_gracef_7789f083-9b87-4297-b473-781ca49daa52_2_s526y9.png",
+    "vibeTags": [
+      "spring",
+      "lavender",
+      "mythic",
+      "elegant"
+    ],
+    "description": "Wrapped in blooming vines and framed by flourish, a unicorn rears in sacred grace amid floral reverence.",
+    "slug": "orchid-spiral"
+  },
+  {
+    "title": "twin glitter stance",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626209/artimuspi_Glamour_shots_magazine_style_cover_shoot._Male_and__25679b76-3561-420b-b866-d3bc869df15d_2_ulneuk.png",
+    "vibeTags": [
+      "winter",
+      "black",
+      "fashion",
+      "fierce"
+    ],
+    "description": "A duo of bold elegance strike with sequined power and mirrored poise, radiating command from boot to belt.",
+    "slug": "twin-glitter-stance"
+  },
+  {
+    "title": "ruby spark",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626210/artimuspi_Glamour_shots_magazine_style_cover_shoot._Professio_f38b6d7b-5456-428e-82a6-bc7b630bc710_2_oa09ep.png",
+    "vibeTags": [
+      "autumn",
+      "red",
+      "celebration",
+      "dynamic"
+    ],
+    "description": "Glimmering in garnet hues, they shine in synchronized defiance, linked by glitter and unapologetic joy.",
+    "slug": "ruby-spark"
+  },
+  {
+    "title": "woven strength",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626210/artimuspi_Glamour_shots_magazine_style_cover_shoot._Professio_f38b6d7b-5456-428e-82a6-bc7b630bc710_1_u1tjjo.png",
+    "vibeTags": [
+      "fall",
+      "earthy",
+      "portrait",
+      "timeless"
+    ],
+    "description": "Side by side in brocade and warmth, they hold a story of resilience and radiance etched into every thread.",
+    "slug": "woven-strength"
+  },
+  {
+    "title": "spectrum kiss",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747627282/artimuspi_Minimalist_photo_portrait_of_an_interracial_gay_cou_e7fa0ee6-39eb-4a1b-ad14-9036df25aa9a_0_zzrjat.png",
+    "vibeTags": [
+      "night",
+      "rainbow",
+      "romance",
+      "ethereal"
+    ],
+    "description": "In darkness lit by prismatic threads, a tender kiss flickers into being, vivid and weightless as light itself.",
+    "slug": "spectrum-kiss"
+  },
+  {
+    "title": "embers of prayer",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747626210/artimuspi_Your_god_is_dead_and_no_one_cares._If_there_is_a_he_977ba635-0b1e-46ef-8ace-7a7fecbe4e88_1_u8oyxy.png",
+    "vibeTags": [
+      "autumn",
+      "fiery",
+      "spiritual",
+      "intense"
+    ],
+    "description": "Bathed in celestial blaze, a solitary figure kneels in longing, reaching upward through the roar of flame.",
+    "slug": "embers-of-prayer"
+  },
+  {
+    "title": "end of days",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747627283/artimuspi_Your_god_is_dead_and_no_one_cares._If_there_is_a_he_977ba635-0b1e-46ef-8ace-7a7fecbe4e88_2_uzxocl.png",
+    "vibeTags": [
+      "fall",
+      "crimson",
+      "apocalyptic",
+      "ominous"
+    ],
+    "description": "A cloaked figure greets the sky\u2019s dying breath as twilight rips across a forgotten, fiery ruin.",
+    "slug": "end-of-days"
+  },
+  {
+    "title": "blue hush",
+    "imageUrl": "https://res.cloudinary.com/dptj6itrl/image/upload/v1747627286/artimuspi_NFT_digital_art_style_of_the_lyrics_I_said_ooh_girl_e9b397f6-eec3-4459-a1ff-715932c6bd33_0_qztgf5.png",
+    "vibeTags": [
+      "spring",
+      "blue",
+      "dreamy",
+      "contemplative"
+    ],
+    "description": "Bathed in moonlit bloom, she drifts through the hush of night, wistful and tangled in floral shadow.",
+    "slug": "blue-hush"
   }
+
 ]
