@@ -153,3 +153,9 @@ hr {
 	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
 }
+/* Anti-download protection for images */
+img {
+  -webkit-user-drag: none;    /* Block image drag (Chrome/Safari) */
+  user-select: none;          /* Prevent text/image selection */
+  pointer-events: none;       /* Disable right-click and all mouse interaction */
+}

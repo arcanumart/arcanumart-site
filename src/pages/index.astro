@@ -5,6 +5,17 @@ import Navbar from '../components/Navbar.astro';
 
 <html>
   <head>
+	<script>
+  // Disable right-click on all images
+  window.addEventListener('DOMContentLoaded', () => {
+    document.addEventListener('contextmenu', e => {
+      if (e.target.tagName === 'IMG') {
+        e.preventDefault();
+      }
+    });
+  });
+</script>
+
     <title>ArcanumArt | AI-Generated Gallery</title>
   </head>
  <body>

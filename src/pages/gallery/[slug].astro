@@ -18,6 +18,17 @@ if (!piece) {
 
 <html>
   <head>
+    <script>
+  // Disable right-click on all images
+  window.addEventListener('DOMContentLoaded', () => {
+    document.addEventListener('contextmenu', e => {
+      if (e.target.tagName === 'IMG') {
+        e.preventDefault();
+      }
+    });
+  });
+</script>
+
     <title>{piece.title} | Arcanum Art</title>
   </head>
   <body>
